@@ -1,7 +1,7 @@
 # 07 — Financial Plan
 
 [← Home](./) | [Document Index](./INDEX)
-
+🌐 [বাংলা](./bn/07-Financial-Plan)
 
 ## Assumptions
 - Exchange rate: 1 CNY ≈ 15 BDT (approximate)
@@ -249,4 +249,5 @@
 -e 
 ---
 [← Back to Home](./) | [Full Document Index](./INDEX)
+🌐 [বাংলা](./bn/07-Financial-Plan)
 

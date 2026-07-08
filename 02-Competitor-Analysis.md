@@ -1,7 +1,7 @@
 # 02 — Competitor Analysis
 
 [← Home](./) | [Document Index](./INDEX)
-
+🌐 [বাংলা](./bn/02-Competitor-Analysis)
 
 ## Competitor 1: MoveOn Global
 
@@ -123,4 +123,5 @@
 -e 
 ---
 [← Back to Home](./) | [Full Document Index](./INDEX)
+🌐 [বাংলা](./bn/02-Competitor-Analysis)
 

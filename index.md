@@ -1,5 +1,7 @@
 # BDXpress — Cross-Border China Import Platform for Bangladesh
 
+🌐 [বাংলা](./bn/)
+
 > Connecting China suppliers & warehouses directly to Bangladesh buyers — powered by AI, built for F-commerce.
 
 [![Project Status](https://img.shields.io/badge/status-planning-yellow)]()
@@ -36,3 +38,6 @@ BDXpress is building Bangladesh's 3rd major cross-border China import & sourcing
 - **Competitor 1:** [MoveOn.global](https://moveon.global/BD_en)
 - **Competitor 2:** [Laobaan.com](https://www.laobaan.com/)
 - **Project origin:** 2026-07-07
+
+---
+🌐 [বাংলা](./bn/)

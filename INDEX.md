@@ -1,7 +1,7 @@
 # BDXpress — Cross-Border E-Commerce & China Sourcing Platform
 
 [← Home](./) | [Document Index](./INDEX)
-
+🌐 [বাংলা](./bn/INDEX)
 
 > **Project:** Bangladesh's 3rd major cross-border China import & sourcing platform
 > **Competing with:** MoveOn.global, Laobaan.com
@@ -32,7 +32,8 @@
 - **Competitor 1:** <https://moveon.global/BD_en>
 - **Competitor 2:** <https://www.laobaan.com/>
 - **Project folder:** `projects/bdexpress/`
--e 
+
 ---
 [← Back to Home](./) | [Full Document Index](./INDEX)
+🌐 [বাংলা](./bn/INDEX)
 

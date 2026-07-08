@@ -1,7 +1,7 @@
 # 09 — Team & Roles
 
 [← Home](./) | [Document Index](./INDEX)
-
+🌐 [বাংলা](./bn/09-Team-and-Roles)
 
 ## Core Team
 
@@ -173,4 +173,5 @@ Suggested discussion points:
 -e 
 ---
 [← Back to Home](./) | [Full Document Index](./INDEX)
+🌐 [বাংলা](./bn/09-Team-and-Roles)
 

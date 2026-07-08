@@ -1,5 +1,8 @@
 # 10 — Questions for Team
 
+[← Home](./) | [Document Index](./INDEX)
+🌐 [বাংলা](./bn/10-Questions-for-Team)
+
 > **⚠️ These are open questions that need answers before we can finalize the plan.**
 > Please read through and give your inputs so I can refine the plan further.
 
@@ -108,3 +111,7 @@
 - [ ] Timeline estimate for MVP
 - [ ] Payment gateway integration research
 - [ ] Identify first 3 features to build
+
+---
+[← Back to Home](./) | [Full Document Index](./INDEX)
+🌐 [বাংলা](./bn/10-Questions-for-Team)

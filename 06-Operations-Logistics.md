@@ -1,7 +1,7 @@
 # 06 — Operations & Logistics
 
 [← Home](./) | [Document Index](./INDEX)
-
+🌐 [বাংলা](./bn/06-Operations-Logistics)
 
 > **Lead:** Mr. Akram (Logistics & Supply Chain Lead)
 > Collaborates closely with Touab (China warehouse) and Sabbir (BD last-mile)
@@ -143,4 +143,5 @@ Total Customer Cost =
 -e 
 ---
 [← Back to Home](./) | [Full Document Index](./INDEX)
+🌐 [বাংলা](./bn/06-Operations-Logistics)
 

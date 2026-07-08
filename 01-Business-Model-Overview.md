@@ -1,7 +1,7 @@
 # 01 — Business Model Overview
 
 [← Home](./) | [Document Index](./INDEX)
-
+🌐 [বাংলা](./bn/01-Business-Model-Overview)
 
 ## What We're Building
 
@@ -137,4 +137,5 @@ User browses platform
 -e 
 ---
 [← Back to Home](./) | [Full Document Index](./INDEX)
+🌐 [বাংলা](./bn/01-Business-Model-Overview)
 

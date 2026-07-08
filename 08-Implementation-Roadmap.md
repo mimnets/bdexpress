@@ -1,7 +1,7 @@
 # 08 — Implementation Roadmap
 
 [← Home](./) | [Document Index](./INDEX)
-
+🌐 [বাংলা](./bn/08-Implementation-Roadmap)
 
 ## Phase 0: Foundation (Week 0 — RIGHT NOW)
 
@@ -189,4 +189,5 @@
 -e 
 ---
 [← Back to Home](./) | [Full Document Index](./INDEX)
+🌐 [বাংলা](./bn/08-Implementation-Roadmap)
 

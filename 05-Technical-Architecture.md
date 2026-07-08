@@ -1,7 +1,7 @@
 # 05 — Technical Architecture
 
 [← Home](./) | [Document Index](./INDEX)
-
+🌐 [বাংলা](./bn/05-Technical-Architecture)
 
 ## System Architecture Overview
 
@@ -203,4 +203,5 @@ GET  /api/admin/analytics       — Dashboard stats
 -e 
 ---
 [← Back to Home](./) | [Full Document Index](./INDEX)
+🌐 [বাংলা](./bn/05-Technical-Architecture)
 

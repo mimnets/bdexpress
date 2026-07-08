@@ -1,7 +1,7 @@
 # 03 — SWOT Analysis
 
 [← Home](./) | [Document Index](./INDEX)
-
+🌐 [বাংলা](./bn/03-SWOT-Analysis)
 
 ## Strengths (Internal)
 
@@ -79,4 +79,5 @@
 -e 
 ---
 [← Back to Home](./) | [Full Document Index](./INDEX)
+🌐 [বাংলা](./bn/03-SWOT-Analysis)
 

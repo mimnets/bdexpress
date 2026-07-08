@@ -1,7 +1,7 @@
 # 04 — Platform Development Plan
 
 [← Home](./) | [Document Index](./INDEX)
-
+🌐 [বাংলা](./bn/04-Platform-Development-Plan)
 
 ## Overview
 
@@ -209,4 +209,5 @@ We will build a **multi-platform system** comprising:
 -e 
 ---
 [← Back to Home](./) | [Full Document Index](./INDEX)
+🌐 [বাংলা](./bn/04-Platform-Development-Plan)
 
