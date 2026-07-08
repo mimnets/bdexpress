@@ -1,5 +1,8 @@
 # 03 — SWOT Analysis
 
+[← Home](./) | [Document Index](./INDEX)
+
+
 ## Strengths (Internal)
 
 | # | Strength | Details |
@@ -73,3 +76,7 @@
 - **W1 + T7**: Get BD company registration + trade license before marketing
 - **W4 + T6**: Partner with 2-3 last-mile delivery companies in BD for redundancy
 - **W3 + T5**: Start with higher-margin services (F-commerce, premium B2B) before competing on price in mass market
+-e 
+---
+[← Back to Home](./) | [Full Document Index](./INDEX)
+

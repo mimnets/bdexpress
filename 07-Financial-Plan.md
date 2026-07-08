@@ -1,5 +1,8 @@
 # 07 — Financial Plan
 
+[← Home](./) | [Document Index](./INDEX)
+
+
 ## Assumptions
 - Exchange rate: 1 CNY ≈ 15 BDT (approximate)
 - Initial capital: Self-funded by partners
@@ -243,3 +246,7 @@
 | **Phase 3 (Scale)** | $50-100 | $50-100 | ~2% per transaction | $20-40 | **~$120-240/mo** |
 
 > **Key Takeaway:** For the first 6 months, total tech costs = **~$20-50/month** (BDT 2,400-6,000). This is very manageable even in bootstrap mode.
+-e 
+---
+[← Back to Home](./) | [Full Document Index](./INDEX)
+

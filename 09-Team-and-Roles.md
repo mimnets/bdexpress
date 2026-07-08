@@ -1,5 +1,8 @@
 # 09 — Team & Roles
 
+[← Home](./) | [Document Index](./INDEX)
+
+
 ## Core Team
 
 ### 1. Mr. Touab — China Operations & Sourcing Lead
@@ -167,3 +170,7 @@ Suggested discussion points:
 4. Does Akram's logistics expertise & supply chain network count as sweat equity?
 5. Will partners take salary from day 1, or reinvest all profits?
 6. What percentage is reserved for future employees/investors?
+-e 
+---
+[← Back to Home](./) | [Full Document Index](./INDEX)
+

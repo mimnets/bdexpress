@@ -1,5 +1,8 @@
 # 04 — Platform Development Plan
 
+[← Home](./) | [Document Index](./INDEX)
+
+
 ## Overview
 
 We will build a **multi-platform system** comprising:
@@ -203,3 +206,7 @@ We will build a **multi-platform system** comprising:
 | Payment Flow | SSLCommerz sandbox + bKash test | Every payment change |
 | Load Testing | k6 / Artillery | Monthly |
 | Security Audit | OWASP checklist | Quarterly |
+-e 
+---
+[← Back to Home](./) | [Full Document Index](./INDEX)
+

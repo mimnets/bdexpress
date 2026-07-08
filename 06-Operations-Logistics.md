@@ -1,5 +1,8 @@
 # 06 — Operations & Logistics
 
+[← Home](./) | [Document Index](./INDEX)
+
+
 > **Lead:** Mr. Akram (Logistics & Supply Chain Lead)
 > Collaborates closely with Touab (China warehouse) and Sabbir (BD last-mile)
 
@@ -137,3 +140,7 @@ Total Customer Cost =
 | **Shared Spreadsheet** | MVP tracking before dashboard |
 | **WhatsApp Group** | China ↔ BD team communication — includes Akram for logistics coordination |
 | **Google Drive** | QC photo storage & sharing |
+-e 
+---
+[← Back to Home](./) | [Full Document Index](./INDEX)
+

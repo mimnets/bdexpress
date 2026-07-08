@@ -1,5 +1,8 @@
 # 05 — Technical Architecture
 
+[← Home](./) | [Document Index](./INDEX)
+
+
 ## System Architecture Overview
 
 ```
@@ -197,3 +200,7 @@ GET  /api/admin/analytics       — Dashboard stats
 6. **Order Tracking** — Real-time status
 7. **Profile** — Orders, address, settings
 8. **Notifications** — Push notification list
+-e 
+---
+[← Back to Home](./) | [Full Document Index](./INDEX)
+

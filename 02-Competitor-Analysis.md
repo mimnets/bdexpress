@@ -1,5 +1,8 @@
 # 02 — Competitor Analysis
 
+[← Home](./) | [Document Index](./INDEX)
+
+
 ## Competitor 1: MoveOn Global
 
 | Detail | Info |
@@ -117,3 +120,7 @@
 4. **Price sensitivity is high** — Shipping cost is the deciding factor. A transparent cost calculator is critical.
 5. **Mobile-first market** — Over 90% of BD users access the internet via mobile. Mobile app + mobile web is non-negotiable.
 6. **Seasonal spikes** — Eid-ul-Fitr, Eid-ul-Adha, Pohela Boishakh drive massive import demand.
+-e 
+---
+[← Back to Home](./) | [Full Document Index](./INDEX)
+

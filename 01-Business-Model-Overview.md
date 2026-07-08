@@ -1,5 +1,8 @@
 # 01 — Business Model Overview
 
+[← Home](./) | [Document Index](./INDEX)
+
+
 ## What We're Building
 
 A **cross-border e-commerce & sourcing platform** that enables Bangladeshi consumers, SMEs, and F-commerce (Facebook commerce) sellers to:
@@ -131,3 +134,7 @@ User browses platform
 | **Local Payment (bKash/Nagad)** | ❌ | ✅ | ✅ |
 | **Mobile App** | ✅ | ✅ | ✅ — Cross-platform (iOS + Android) |
 | **Price Comparison Engine** | ❌ | ❌ | ✅ — Compare prices across Taobao/1688 |
+-e 
+---
+[← Back to Home](./) | [Full Document Index](./INDEX)
+
