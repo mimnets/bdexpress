@@ -2,9 +2,9 @@
 
 > **Project:** Bangladesh's 3rd major cross-border China import & sourcing platform
 > **Competing with:** MoveOn.global, Laobaan.com
-> **Partners:** Mr. Touab (China logistics/sourcing), Mr. Sabbir (local market & operations), Monirul Islam (tech & automation)
+> **Partners:** Mr. Touab (China logistics/sourcing), Mr. Sabbir (local market & operations), Mr. Akram (logistics & supply chain), Monirul Islam (tech & automation)
 > **Status:** Planning Phase
-> **Last Updated:** 2026-07-07
+> **Last Updated:** 2026-07-08
 
 ---
 

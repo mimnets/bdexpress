@@ -1,5 +1,8 @@
 # 06 — Operations & Logistics
 
+> **Lead:** Mr. Akram (Logistics & Supply Chain Lead)
+> Collaborates closely with Touab (China warehouse) and Sabbir (BD last-mile)
+
 ## End-to-End Order Fulfillment Process
 
 ```
@@ -132,5 +135,5 @@ Total Customer Cost =
 | **Internal Dashboard** | Order management, warehouse ops, customs docs |
 | **Barcode/QR System** | Track packages in warehouse |
 | **Shared Spreadsheet** | MVP tracking before dashboard |
-| **WhatsApp Group** | China ↔ BD team communication |
+| **WhatsApp Group** | China ↔ BD team communication — includes Akram for logistics coordination |
 | **Google Drive** | QC photo storage & sharing |

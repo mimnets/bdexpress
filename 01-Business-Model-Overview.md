@@ -124,6 +124,7 @@ User browses platform
 | **AI-Powered Product Search** | ❌ | ❌ | ✅ — Search by image, voice, paste link |
 | **Telegram/Facebook Bot Ordering** | ❌ | ❌ | ✅ — Order via chat |
 | **F-commerce Integration** | ❌ | ❌ | ✅ — Dedicated F-commerce seller portal |
+| **Logistics & Supply Chain Expertise** | ❌ | ❌ | ✅ — Dedicated logistics partner for route optimization & cost efficiency |
 | **Auto Customer Support (AI)** | ❌ | ❌ | ✅ — AI chatbot with human escalation |
 | **Real-time Shipping Calculator** | ✅ | ❌ | ✅ |
 | **Order Tracking (end-to-end)** | ✅ | ✅ | ✅ — Real-time push notifications |

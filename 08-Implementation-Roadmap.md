@@ -11,6 +11,7 @@
 | Secure China warehouse confirmation | Touab | Week 1 | ✅ (Already exists) |
 | Decide on tech stack & hosting | Monir | Week 0 | ✅ |
 | This business plan review & approval | All | Day 1–2 | 🔄 |
+| Set up logistics partnerships (freight, customs, last-mile) | Akram | Week 1–2 | ❌ |
 | Answer all open questions (see doc) | All | Day 1–3 | ❌ |
 
 ---
@@ -36,7 +37,12 @@
 - [ ] Company registration process
 - [ ] Bank account + bKash merchant
 - [ ] Office space in Uttara
-- [ ] Research last-mile delivery partners
+
+**Akram (Logistics)**
+- [ ] Map out freight forwarder options & get rate quotes
+- [ ] Document customs clearance process & broker contacts
+- [ ] Research last-mile delivery partners & negotiate rates
+- [ ] Define logistics workflow: China warehouse → BD delivery
 
 ### Weeks 3–4: Core Features
 
@@ -55,9 +61,14 @@
 
 **Sabbir (BD)**
 - [ ] SSLCommerz account setup
-- [ ] Partner with 2 last-mile delivery services
 - [ ] Create customer support WhatsApp number
 - [ ] Set up Facebook page & YouTube channel
+
+**Akram (Logistics)**
+- [ ] Finalise freight forwarder agreements & rates
+- [ ] Confirm customs broker partnership
+- [ ] Partner with 2 last-mile delivery services
+- [ ] Create logistics SOP document
 
 ### Weeks 5–6: Frontend & Mobile
 

@@ -4,7 +4,7 @@
 
 | # | Strength | Details |
 |---|----------|---------|
-| S1 | **Dream Team Coverage** | Touab (China logistics/warehouse), Sabbir (local market & gadgets), Monir (tech/AI) — covers all 3 critical areas |
+| S1 | **Dream Team Coverage** | Touab (China logistics/warehouse), Sabbir (local market & gadgets), Akram (logistics & supply chain), Monir (tech/AI) — covers all critical areas |
 | S2 | **China Warehouse Already Exists** | Touab has an established warehouse in China — huge head start over competitors who had to build from scratch |
 | S3 | **Tech-First Approach** | Using AI, automation, vibe coding — ability to build a more sophisticated platform than competitors |
 | S4 | **Deep Local Market Knowledge** | Sabbir understands BD customer preferences, especially in gadgets/electronics |

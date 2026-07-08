@@ -33,36 +33,48 @@
 18. **Target market connections:** Do you know any F-commerce sellers, shop owners, or Daraz sellers who could be early customers?
 19. **Budget for initial marketing:** How much can we allocate for Facebook/Google ads in the first 3 months?
 
+## Akram (Logistics & Supply Chain)
+
+28. **Current logistics network:** What freight forwarders, shipping lines, or carriers do you currently work with or have relationships with?
+29. **BD customs brokers:** Do you have existing relationships with Bangladesh customs brokers? Can you share their rates?
+30. **Shipping cost insights:** What are realistic current rates for air freight (per kg) and sea freight (per CBM) from Guangzhou/Shenzhen to Dhaka?
+31. **Preferred warehouse connection:** How would you connect Touab's China warehouse operations with international shipping — pickup schedule, documentation handoff?
+32. **Last-mile delivery:** Do you have contacts with BD delivery services (Pathao, E-Desh, Sundarban, Paperfly, RedX)? Can you negotiate better rates?
+33. **Logistics tech:** Have you used any logistics management platforms or TMS (Transportation Management Systems)?
+34. **Supply chain pain points:** From your experience, what are the biggest logistics bottlenecks for China→BD imports right now? How should we solve them?
+35. **Regulatory & compliance:** Any insights on BD customs regulations changes, restricted items, or documentation requirements we should prepare for?
+36. **Capacity & availability:** How much time can you commit to BDXpress? Are you working on other logistics projects currently?
+
 ## Monir (Technology)
 
-20. **Tech stack confirmation:** Are you comfortable with Next.js + React Native as proposed, or do you prefer something else? (Flutter? T3 stack?)
-21. **Claude Code setup:** Do you have Claude Code access set up and ready? What's your dev environment?
-22. **Hosting preference:** Vercel + Supabase vs Railway vs self-hosted on your Oracle VM? Each has different cost/control trade-offs.
-23. **Timeline for MVP:** Can we realistically build MVP in 8 weeks working part-time? Full-time?
-24. **API integration approach:** Start with manual/scraping for MVP and integrate official APIs in Phase 2? Or try API integration from day 1?
-25. **Payment gateways:** Have you worked with SSLCommerz or bKash API before?
-26. **Mobile app priority:** Should we launch web-only first and add mobile apps in Phase 2, or do you want all platforms at launch?
-27. **Other projects:** What's your availability like? Do you have other commitments that would affect the timeline?
+37. **Tech stack confirmation:** Are you comfortable with Next.js + React Native as proposed, or do you prefer something else? (Flutter? T3 stack?)
+38. **Claude Code setup:** Do you have Claude Code access set up and ready? What's your dev environment?
+39. **Hosting preference:** Vercel + Supabase vs Railway vs self-hosted on your Oracle VM? Each has different cost/control trade-offs.
+40. **Timeline for MVP:** Can we realistically build MVP in 8 weeks working part-time? Full-time?
+41. **API integration approach:** Start with manual/scraping for MVP and integrate official APIs in Phase 2? Or try API integration from day 1?
+42. **Payment gateways:** Have you worked with SSLCommerz or bKash API before?
+43. **Mobile app priority:** Should we launch web-only first and add mobile apps in Phase 2, or do you want all platforms at launch?
+44. **Other projects:** What's your availability like? Do you have other commitments that would affect the timeline?
 
 ## General Business
 
-28. **Partnership structure:** How should we split equity/profits? Options:
-    - Equal 33/33/33 split
-    - Based on contribution (Touab's warehouse = capital, Monir's tech = time/skill, Sabbir's local ops = time/skill)
+45. **Partnership structure:** How should we split equity/profits? Options:
+    - Equal 25/25/25/25 split (4 partners)
+    - Based on contribution (Touab's warehouse = capital, Sabbir's local ops = time/skill, Akram's logistics network = time/skill, Monir's tech = time/skill)
     - Salary-based model (each draws salary + % of profits)
-29. **Investment:** Will we all contribute equally to startup costs (~500K BDT total)? Or different amounts?
-30. **Timing:** When do we want to launch? Is there a target date? (Eid season could be a good launch window)
-31. **Risk tolerance:** How much risk is everyone comfortable with? (Bootstrapped vs seeking small investors?)
-32. **Exit strategy:** Short-term thinking (build to sell) or long-term (build as life business)?
+46. **Investment:** Will we all contribute equally to startup costs (~500K BDT total)? Or different amounts?
+47. **Timing:** When do we want to launch? Is there a target date? (Eid season could be a good launch window)
+48. **Risk tolerance:** How much risk is everyone comfortable with? (Bootstrapped vs seeking small investors?)
+49. **Exit strategy:** Short-term thinking (build to sell) or long-term (build as life business)?
 
 ## Additional Considerations
 
-33. **Warehouse in BD:** Should we plan for a small BD warehouse for fast-moving items later, or just ship directly from China for now?
-34. **Payment to China:** How should we handle fund transfers from BD to China for purchasing? (Through proper banking channels or other methods?)
-35. **Competitor response:** What if MoveOn or Laobaan aggressively drops prices when we launch? How should we respond?
-36. **Legal:** Do we need a lawyer for partnership agreement, terms of service, privacy policy?
-37. **Insurance:** Should we insure high-value shipments?
-38. **Return/refund policy:** What's our policy if a product is damaged or wrong? (We need a clear policy before launch)
+50. **Warehouse in BD:** Should we plan for a small BD warehouse for fast-moving items later, or just ship directly from China for now?
+51. **Payment to China:** How should we handle fund transfers from BD to China for purchasing? (Through proper banking channels or other methods?)
+52. **Competitor response:** What if MoveOn or Laobaan aggressively drops prices when we launch? How should we respond?
+53. **Legal:** Do we need a lawyer for partnership agreement, terms of service, privacy policy?
+54. **Insurance:** Should we insure high-value shipments?
+55. **Return/refund policy:** What's our policy if a product is damaged or wrong? (We need a clear policy before launch)
 
 ---
 
@@ -82,6 +94,13 @@
 - [ ] Payment gateway (bKash/Nagad) application status
 - [ ] Facebook page/group setup
 - [ ] Market research: what products are trending in BD right now
+
+### Akram — Please prepare:
+- [ ] List of current freight forwarder/carrier relationships with rates
+- [ ] Customs broker contacts & fee structure
+- [ ] Estimated shipping costs (air & sea) from Guangzhou/Shenzhen to Dhaka
+- [ ] Last-mile delivery partner contacts & negotiation
+- [ ] Logistics workflow proposal (China warehouse → BD doorstep)
 
 ### Monir — Please prepare:
 - [ ] Tech stack final decision

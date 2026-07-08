@@ -62,6 +62,37 @@
 
 **Background:** Claude Code / vibe coding — develops e-commerce website + mobile app (iOS & Android), automates customer support, sales, social media
 
+---
+
+### 4. Mr. Akram — Logistics & Supply Chain Lead
+
+**Background:** Expert in logistics & supply chain operations with deep experience in cross-border shipping, freight forwarding, customs clearance, and last-mile delivery networks
+
+**Responsibilities:**
+- International shipping route planning & carrier selection
+- Freight forwarding partnerships (air, sea, express)
+- Customs clearance process & broker management (Bangladesh side)
+- Last-mile delivery partner evaluation & onboarding
+- Shipping cost optimization & rate negotiation
+- Supply chain workflow design from China warehouse to BD doorstep
+- Shipment tracking & exception handling
+- Logistics performance metrics & reporting
+
+**Decision-making authority:**
+- Carrier & freight forwarder selection
+- Shipping method recommendations per order type
+- Last-mile delivery partner selection
+- Customs broker partnerships
+
+**Tools they'll use:**
+- Admin dashboard (logistics tracking module)
+- Freight comparison tools
+- Customs documentation software
+- WhatsApp/Telegram for real-time coordination
+- Spreadsheet/dashboard for shipping metrics
+
+---
+
 **Responsibilities:**
 - Full-stack development (website, mobile app, backend)
 - AI/automation implementation
@@ -110,10 +141,10 @@
 
 | Frequency | Meeting | Participants | Format |
 |-----------|---------|-------------|--------|
-| **Daily** | Quick standup | All 3 | WhatsApp/Telegram voice note or text |
-| **Weekly** | Progress review | All 3 | Video call (60 min) |
-| **Bi-weekly** | Strategic planning | All 3 | Video call (90 min) |
-| **Monthly** | Financial review | All 3 | Video call + spreadsheet |
+| **Daily** | Quick standup | All 4 | WhatsApp/Telegram voice note or text |
+| **Weekly** | Progress review | All 4 | Video call (60 min) |
+| **Bi-weekly** | Strategic planning | All 4 | Video call (90 min) |
+| **Monthly** | Financial review | All 4 | Video call + spreadsheet |
 
 ### Communication Tools
 - **Daily chat:** WhatsApp group
@@ -124,7 +155,7 @@
 
 ## Equity & Profit Sharing (To Discuss)
 
-> **⚠️ OPEN QUESTION:** Need to discuss how equity/profits are split between the 3 partners. Suggested structure for discussion:
+> **⚠️ OPEN QUESTION:** Need to discuss how equity/profits are split between the 4 partners. Suggested structure for discussion:
 > - Based on contribution (time, resources, existing assets)
 > - Vesting schedule (e.g., 2-year cliff, 4-year vest)
 > - Profit distribution vs reinvestment policy
@@ -133,5 +164,6 @@ Suggested discussion points:
 1. Does Touab's existing China warehouse & network count as capital contribution?
 2. Does Sabbir's time for operations count as sweat equity?
 3. Does Monir's tech development count as sweat equity + cash cost?
-4. Will partners take salary from day 1, or reinvest all profits?
-5. What percentage is reserved for future employees/investors?
+4. Does Akram's logistics expertise & supply chain network count as sweat equity?
+5. Will partners take salary from day 1, or reinvest all profits?
+6. What percentage is reserved for future employees/investors?

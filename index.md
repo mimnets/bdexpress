@@ -11,7 +11,7 @@
 
 BDXpress is building Bangladesh's 3rd major cross-border China import & sourcing platform — competing with MoveOn.global and Laobaan.com.
 
-**Partners:** Mr. Touab (China logistics/sourcing), Mr. Sabbir (local market & operations), Monirul Islam (tech & automation)
+**Partners:** Mr. Touab (China logistics/sourcing), Mr. Sabbir (local market & operations), Mr. Akram (logistics & supply chain), Monirul Islam (tech & automation)
 
 ---
 
